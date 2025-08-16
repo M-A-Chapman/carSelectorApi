@@ -15,4 +15,4 @@ LOAD DATA LOCAL INFILE 'dataSource/makes-sample.csv'
           ENCLOSED BY '\"'         
           LINES TERMINATED BY '\n'
           IGNORE 1 LINES
-          (MakeId,MakeId,MakeYear,MakeName,MakeName,MakeCreated,MakeModified);
+          (MakeId,MakeName,MakeCreated,MakeModified);
