@@ -21,8 +21,9 @@ module.exports = () => {
         connection.connect((err) => {
             if (err) return console.error(err.message);
 
-            connection.query(sql, [true], (error, results, fields) => {
+            const results = connection.query(sql, [true], (error, results, fields) => {
                 if (error) return console.error(error.message);
+                return results
             });
 
             // close the database connection
@@ -37,7 +38,7 @@ module.exports = () => {
         SELECT makeId 
         FROM makes 
         WHERE makeName = ?`
-        const response = connection.query(sql, [make]);
+        const response = connection.query(sql, [makeName]);
         connection.end();
         return response;
     };
