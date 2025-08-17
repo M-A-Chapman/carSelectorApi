@@ -1,6 +1,27 @@
-const express = require('express')
+const express = require('express');
+const dbDataSource = require('./dbDataSource');
 const app = express();
 const port = 3000;
+
+// TO DO: Fix db.query not returning results
+
+app.use('/makes/:makeName', async (req, res) => {
+    try {
+        const response = await dbDataSource().getMakeByName(req.params?.makeName);
+        res.status(200).send(response);
+    } catch (err) {
+        res.status(500).send(err);
+    }
+});
+
+app.use('/makes', async (req, res) => {
+    try {
+        const result = await dbDataSource().getMakes();
+        res.status(200).send(result);
+    } catch (err) {
+        res.status(500).send(err);
+    }
+});
 
 app.use('/', (req, res) => {
     res.send('Hello World!');

@@ -1,0 +1,339 @@
+{
+"makes": [
+	{
+		"id" : 1,
+		"MakeId" : 1,
+		"MakeName" : "Acura",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 2,
+		"MakeId" : 24,
+		"MakeName" : "Alfa Romeo",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 3,
+		"MakeId" : 44,
+		"MakeName" : "Aston Martin",
+		"MakeCreated" : "8\/30\/22, 10:21 PM",
+		"MakeModified" : "8\/30\/22, 10:21 PM"
+	},
+	{
+		"id" : 4,
+		"MakeId" : 2,
+		"MakeName" : "Audi",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 5,
+		"MakeId" : 25,
+		"MakeName" : "Bentley",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 6,
+		"MakeId" : 3,
+		"MakeName" : "BMW",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 7,
+		"MakeId" : 56,
+		"MakeName" : "Bugatti",
+		"MakeCreated" : "8\/30\/22, 10:40 PM",
+		"MakeModified" : "8\/30\/22, 10:40 PM"
+	},
+	{
+		"id" : 8,
+		"MakeId" : 4,
+		"MakeName" : "Buick",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 9,
+		"MakeId" : 5,
+		"MakeName" : "Cadillac",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 10,
+		"MakeId" : 6,
+		"MakeName" : "Chevrolet",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 11,
+		"MakeId" : 26,
+		"MakeName" : "Chrysler",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 12,
+		"MakeId" : 27,
+		"MakeName" : "Dodge",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 13,
+		"MakeId" : 46,
+		"MakeName" : "Ferrari",
+		"MakeCreated" : "8\/30\/22, 10:25 PM",
+		"MakeModified" : "8\/30\/22, 10:25 PM"
+	},
+	{
+		"id" : 14,
+		"MakeId" : 28,
+		"MakeName" : "FIAT",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 15,
+		"MakeId" : 29,
+		"MakeName" : "Ford",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 16,
+		"MakeId" : 7,
+		"MakeName" : "Genesis",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 17,
+		"MakeId" : 8,
+		"MakeName" : "GMC",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 18,
+		"MakeId" : 9,
+		"MakeName" : "Honda",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 19,
+		"MakeId" : 10,
+		"MakeName" : "Hyundai",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 20,
+		"MakeId" : 11,
+		"MakeName" : "INFINITI",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 21,
+		"MakeId" : 12,
+		"MakeName" : "Jaguar",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 22,
+		"MakeId" : 30,
+		"MakeName" : "Jeep",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 23,
+		"MakeId" : 31,
+		"MakeName" : "Karma",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 24,
+		"MakeId" : 13,
+		"MakeName" : "Kia",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 25,
+		"MakeId" : 32,
+		"MakeName" : "Lamborghini",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 26,
+		"MakeId" : 14,
+		"MakeName" : "Land Rover",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 27,
+		"MakeId" : 33,
+		"MakeName" : "Lexus",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 28,
+		"MakeId" : 15,
+		"MakeName" : "Lincoln",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 29,
+		"MakeId" : 45,
+		"MakeName" : "Lotus",
+		"MakeCreated" : "8\/30\/22, 10:21 PM",
+		"MakeModified" : "8\/30\/22, 10:21 PM"
+	},
+	{
+		"id" : 30,
+		"MakeId" : 35,
+		"MakeName" : "Maserati",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 31,
+		"MakeId" : 16,
+		"MakeName" : "Mazda",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 32,
+		"MakeId" : 36,
+		"MakeName" : "McLaren",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 33,
+		"MakeId" : 37,
+		"MakeName" : "Mercedes-Benz",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 34,
+		"MakeId" : 17,
+		"MakeName" : "MINI",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 35,
+		"MakeId" : 18,
+		"MakeName" : "Mitsubishi",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 36,
+		"MakeId" : 19,
+		"MakeName" : "Nissan",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 37,
+		"MakeId" : 20,
+		"MakeName" : "Polestar",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 38,
+		"MakeId" : 38,
+		"MakeName" : "Porsche",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 39,
+		"MakeId" : 39,
+		"MakeName" : "Ram",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 40,
+		"MakeId" : 41,
+		"MakeName" : "Rolls-Royce",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 41,
+		"MakeId" : 48,
+		"MakeName" : "Scion",
+		"MakeCreated" : "8\/30\/22, 10:30 PM",
+		"MakeModified" : "8\/30\/22, 10:30 PM"
+	},
+	{
+		"id" : 42,
+		"MakeId" : 47,
+		"MakeName" : "smart",
+		"MakeCreated" : "8\/30\/22, 10:25 PM",
+		"MakeModified" : "8\/30\/22, 10:25 PM"
+	},
+	{
+		"id" : 43,
+		"MakeId" : 58,
+		"MakeName" : "Spyker",
+		"MakeCreated" : "8\/30\/22, 10:40 PM",
+		"MakeModified" : "8\/30\/22, 10:40 PM"
+	},
+	{
+		"id" : 44,
+		"MakeId" : 21,
+		"MakeName" : "Subaru",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 45,
+		"MakeId" : 42,
+		"MakeName" : "Tesla",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 46,
+		"MakeId" : 22,
+		"MakeName" : "Toyota",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	},
+	{
+		"id" : 47,
+		"MakeId" : 43,
+		"MakeName" : "Volkswagen",
+		"MakeCreated" : "8\/30\/22, 10:20 PM",
+		"MakeModified" : "8\/30\/22, 10:20 PM"
+	},
+	{
+		"id" : 48,
+		"MakeId" : 23,
+		"MakeName" : "Volvo",
+		"MakeCreated" : "8\/30\/22, 10:19 PM",
+		"MakeModified" : "8\/30\/22, 10:19 PM"
+	}
+]}
