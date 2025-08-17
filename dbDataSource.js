@@ -1,5 +1,7 @@
 const mysql = require('mysql');
-const dummyMakes = require('./data/dummyMakes.json')
+const dummyMakes = require('./data/dummyMakes.json');
+const dummyModels = require('./data/dummyModels.json');
+const dummySubmodels = require('./data/dummySubmodels.json');
 
 const connection = mysql.createConnection({
     host: 'localhost',
@@ -44,17 +46,17 @@ module.exports = () => {
         return dummyModels;
     }
 
-    async function getModelsByMakeName() {
+    async function getModelsByMakeName(makeName = '*') {
         return dummyModels.models.filter((model) => model.MakeName.toLowerCase() === makeName);
     }
 
 
     async function getSubmodels() {
-        return dummySubModels;
+        return dummySubmodels;
     }
 
-    async function getSubmodelsByModelName() {
-        return dummyModels.submodels.filter((submodel) => submodel.modelName.toLowerCase() === modelName);
+    async function getSubmodelsByModelName(modelName = '*') {
+        return dummySubmodels.submodels.filter((submodel) => submodel.ModelName.toLowerCase() === modelName);
     }
 
 
