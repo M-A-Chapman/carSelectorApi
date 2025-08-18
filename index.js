@@ -1,7 +1,7 @@
 const express = require('express');
 const dbDataSource = require('./dbDataSource');
 const app = express();
-const port = 3000;
+const port = 3005;
 
 // TO DO: Fix db.query not returning results
 
