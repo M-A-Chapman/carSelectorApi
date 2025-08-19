@@ -1,2 +1,2 @@
 setup_db:
-	./data/models.sql
+	./data/bodies.sql ./data/engines.sql ./data/makes.sql ./data/mileages.sql ./data/models.sql ./data/submodels.sql ./data/trims.sql
