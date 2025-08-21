@@ -1,4 +1,4 @@
-"Make Id","Model Id","Submodel Id","Trim Id","Model Year","Make Name","Model Name","Submodel Name","Trim Name","Trim Description","Trim MSRP","Trim Invoice","Trim Created","Trim Modified"
+"MakeId","ModelId","SubmodelId","TrimId","ModelYear","MakeName","ModelName","SubmodelName","TrimName","TrimDescription","TrimMSRP","TrimInvoice","TrimCreated","TrimModified"
 1,6946,72326,6296,2020,Acura,ILX,Base,"Technology and A-SPEC Packages","Technology and A-SPEC Packages 4dr Sedan (2.4L 4cyl 8AM)",31650,30064,"6/29/23, 8:59 PM","6/29/23, 8:59 PM"
 1,6946,72326,6295,2020,Acura,ILX,Base,"Premium and A-SPEC Packages","Premium and A-SPEC Packages 4dr Sedan (2.4L 4cyl 8AM)",29750,28264,"6/29/23, 8:59 PM","6/29/23, 8:59 PM"
 1,6946,72326,6294,2020,Acura,ILX,Base,"Technology Package","Technology Package 4dr Sedan (2.4L 4cyl 8AM)",29650,28169,"6/29/23, 8:59 PM","6/29/23, 8:59 PM"
